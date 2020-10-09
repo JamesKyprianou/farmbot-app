@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+
+  background: url('https://cdn2.slidemodel.com/wp-content/uploads/13081-01-gradient-designs-powerpoint-backgrounds-16x9-5-320x180.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-color: rgba(152, 66, 211, 0.63);
+}
+
+.menu {
+  font-size: 18px;
+    line-height: 40px;
+    height: 50px;
+    padding-top: 0;
+}
+
+h2 {
+color: white;
+}
+
+h6 {
+color: white;
+}
+
+h1 {
+color: white;
+}
