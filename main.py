@@ -22,7 +22,12 @@ current = data["current"]["dt"]
 # Route and render template
 @app.route('/')
 def index():
-    return render_template('index1a.html', data=data)
+    return render_template('dashboard.html', data=data)
+
+
+@app.route('/test')
+def test():
+    return render_template('test.html')
 
 
 # To extract the current temperature from the above call, simply access the JSON result

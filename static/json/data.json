@@ -1,31 +1,31 @@
 {
-  "day1" : {
-    "soil_moisture": 112,
-  "water_run_time": 2,
-  "humidity": 78,
-  "outside_temp": 17,
-  "inside_temp": 24,
-  "max_temp": 29,
-  "min_temp": 22,
-  "current_temp": 28
-  },
-  "day2" : {
-    "soil_moisture": 212,
-  "water_run_time": 2,
-  "humidity": 82,
-  "outside_temp": 15,
-  "inside_temp": 21,
-  "max_temp": 25,
-  "min_temp": 19,
-  "current_temp": 2
-  },
-  "day3" : {
-   "soil_moisture": 178,
-  "water_run_time": 2,
-  "humidity": 63,
-  "outside_temp": 14,
-  "inside_temp": 19,
-  "max_temp": 25,
-  "min_temp": 17
-  }
-}
+		"day1": {
+			"soil_moisture": 412,
+			"water_run_time": 4,
+			"humidity": 82,
+			"outside_temp": 17,
+			"inside_temp": 24,
+			"max_temp": 29,
+			"min_temp": 22,
+			"current_temp": 28
+		},
+		"day2": {
+			"soil_moisture": 342,
+			"water_run_time": 2,
+			"humidity": 71,
+			"outside_temp": 15,
+			"inside_temp": 21,
+			"max_temp": 25,
+			"min_temp": 19,
+			"current_temp": 2
+		},
+		"day3": {
+			"soil_moisture": 510,
+			"water_run_time": 2,
+			"humidity": 63,
+			"outside_temp": 14,
+			"inside_temp": 19,
+			"max_temp": 25,
+			"min_temp": 17
+		}
+	}
