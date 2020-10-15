@@ -1,16 +1,12 @@
+// image variables
 var thermometerImg, thermometerImgOutside, cloudImg, coldImg, hotImg, dropImg
 
-var btnColour = (0, 0, 0, 150)
-var btnStroke = 0
+// button variables
+var btnColour = (0, 0, 0, 150), btnStroke = 0
 
-var box1Colour = 255
-var box2Colour = 255
-var box3Colour = 255
-var box4Colour = 255
-var box5Colour = 255
-var box6Colour = 255
-var box7Colour = 255
-var box8Colour = 255
+// box colour variables
+var box1Colour = 255, box2Colour = 255, box3Colour = 255, box4Colour = 255,
+box5Colour = 255, box6Colour = 255, box7Colour = 255, box8Colour = 255
 
 function preload() { // preload before setup
 // preload the json file
